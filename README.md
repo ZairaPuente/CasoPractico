@@ -11,6 +11,7 @@ Transformar y visualizar los datos de manera que permita a los propietarios de t
 Derivado del análisis de la información se observa lo siguiente: 
 
 1.- En la gráfica de anillo, se puede ver que en el año 2023 (se excluyeron ventas de enero 2024) las ventas de electrónica y ropa fueron de un 34%.
+
 ![image](https://github.com/user-attachments/assets/bc612d96-4e62-45d0-ba69-7218fc0f245c)
 
 2.- En la gráfica de barras, podemos observar que el género que más compra es el femenino.
